@@ -14,6 +14,16 @@ public class Main {
         int div = nr2/nr1;
         System.out.println("impartirea a doua numere:"+div);
 
+        int no1 = -5;
+        int no2 = 8;
+        int no3 = 6;
+        int total = no1 + no2 *6;
+        System.out.println("-5 + 8 * 6 = "+total);
+
+
+
+
+
 
 
 

@@ -7,7 +7,8 @@ public class Main {
         int num1 = 9;
         int num2 = 4;
         int sum = num1 + num2;
-        System.out.println( sum = num1 + num2 );
+        System.out.println("suma a doua numere:"+sum);
+
 
 
 

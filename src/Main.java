@@ -27,6 +27,23 @@ public class Main {
 
         System.out.println("(55+9) % 9  = " + sum1);
 
+        int a2 = 20;
+        int b2 = -3;
+        int c2 = 5;
+        int d2 = 8;
+        int sum2 = a2 + b2 * c2 / d2;
+
+        System.out.println("20 + -3*5 / 8 = " + sum2);
+
+        int a3 = 5;
+        int b3 = 15;
+        int c3 = 3;
+        int d3 = 2;
+        int e3 = 8;
+        int f3 = 3;
+        int sum3 = a3 + b3 / c3 * d3 - e3 % f3;
+        System.out.println("5 + 15 / 3 * 2 - 8 % 3  = " + sum3);
+
 
 
 

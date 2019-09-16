@@ -4,5 +4,13 @@ public class Main {
         System.out.println("Hello World");
         String nume = "Adina";
         System.out.println(nume);
+        int num1 = 9;
+        int num2 = 4;
+        int sum = num1 + num2;
+        System.out.println( sum = num1 + num2 );
+
+
+
+
     }
 }

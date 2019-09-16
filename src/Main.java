@@ -9,6 +9,11 @@ public class Main {
         int sum = num1 + num2;
         System.out.println("suma a doua numere:"+sum);
 
+        int nr1 = 2;
+        int nr2 = 24;
+        int div = nr2/nr1;
+        System.out.println("impartirea a doua numere:"+div);
+
 
 
 

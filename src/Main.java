@@ -20,6 +20,15 @@ public class Main {
         int total = no1 + no2 *6;
         System.out.println("-5 + 8 * 6 = "+total);
 
+        int a1 = 55;
+        int b1 = 9;
+        int c1 = 9;
+        int sum1 = (a1 + b1) % c1;
+
+        System.out.println("(55+9) % 9  = " + sum1);
+
+
+
 
 
 
